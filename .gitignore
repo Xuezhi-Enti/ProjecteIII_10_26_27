@@ -74,3 +74,8 @@ Plugins/**/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 *.log
+SiVivusExiero/Saved/Config
+SiVivusExiero/Saved/Crashes
+SiVivusExiero/Saved/ShaderDebugInfo
+SiVivusExiero/Saved/webcache_6613
+SiVivusExiero/Saved
